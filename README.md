@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Upwork as front-end developer and UI/UX Designer as well as graphics Designer](upwork.com/freelancers/~0141fef7ce4445fd9e)
 
-- 🌱 I’m currently learning **react for frontend and Cybersecurity on sidelines**
+- 🌱 I’m currently learning **frontend and Cybersecurity on sidelines**
 
 - 💬 Ask me about **Graphics and UI & UX Designs**
 
