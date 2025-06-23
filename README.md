@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi 👋 This is Rehan Tariq</h1>
 <h3 align="center">I'm a passionate Graphic Designer, UI/UX Designer & Frontend Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reh1t&label=Profile%20views&color=0e75b6&style=flat" alt="reh1t" /> </p>
