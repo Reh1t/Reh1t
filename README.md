@@ -34,9 +34,6 @@
 - 🔍 **Web Vulnerability Scanner**  
   An automated security scanner built with Python to detect OWASP Top 10 vulnerabilities like SQLi, XSS, CSRF, and Broken Access Control.
 
-- 🎨 **Williams Solution Website**  
-  A clean and animated multi-service booking website for plumbing, septic, and water treatment services with blog and user account features.
-
 ---
 
 ### 🛠️ Languages and Tools
